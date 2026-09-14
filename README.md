@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
 | [1920-build-array-from-permutation](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1929-concatenation-of-array) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
