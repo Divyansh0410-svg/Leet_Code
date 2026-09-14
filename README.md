@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
+| [1920-build-array-from-permutation](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
