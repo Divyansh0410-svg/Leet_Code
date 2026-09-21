@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -66,5 +68,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0189-rotate-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
