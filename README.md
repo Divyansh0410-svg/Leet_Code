@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1929-concatenation-of-array) |
