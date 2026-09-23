@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1920-build-array-from-permutation) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
