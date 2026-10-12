@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -77,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
