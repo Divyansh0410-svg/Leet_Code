@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0344-reverse-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0344-reverse-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
