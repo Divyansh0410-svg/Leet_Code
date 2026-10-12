@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -80,9 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
