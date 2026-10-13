@@ -15,14 +15,14 @@ public:
             freq[s1[i]-'a']++;
         }
 
-       int windowSize=s1.length();
+       int windowSize=s1.length(), frq1[26]={0};
+       int windowIndex = 0, windowEnd = windowIndex+s1.length();
         for(int i=0;i<s2.length();i++){
-            int windowIndex=0,index=i;
-            int frq1[26]={0};
-            while(windowIndex < windowSize && index < s2.length()){
-
-                frq1[s2[index]-'a']++;
-                windowIndex++ , index++;
+            frq1[s2[i]-'a']++;
+            if(i==windowEnd){
+                frq1[s2[windowIndex]-'a']--;
+                windowEnd++;
+                windowIndex++;
             }
             if(isEqual(freq,frq1)){
                 return true;
