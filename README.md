@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0242-valid-anagram) |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
