@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Divyansh0410-svg/Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
